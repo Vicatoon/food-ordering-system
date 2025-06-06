@@ -22,14 +22,15 @@ Through this project, I strengthened my understanding of:
 - Dictionaries and integers for menu data and cost calculations
 - Input validation using .isdigit() and value checking
   
-🔄 Future Improvements
-	•	Add more menu items and categories
-	•	Introduce pricing discounts or meal combos
-	•	Store order history in a file or database
-	•	Allow for multiple item selection in a single run
-	•	Add confirmation before placing an order
-	•	Display total cost for multiple items
+## 🔄 Future Improvements 
 
+- Add more menu items and categories
+- Introduce pricing discounts or meal combos
+- Store order history in a file or database
+- Allow for multiple item selection in a single run
+- Add confirmation before placing an order
+- Display the total cost for multiple items
+ 
 ## ▶ How to Run
 
 1. Download or clone the repository.
