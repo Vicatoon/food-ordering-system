@@ -1,4 +1,4 @@
-# food-ordering-system
+# Food-ordering-system
 A simple Python-based food ordering system developed using basic control structures
 The program displays a menu of food items, allows users to select items and quantities, calculates the total cost, and handles incorrect inputs gracefully. It simulates a real-world ordering interaction in a restaurant or food kiosk environment.
 
@@ -30,15 +30,6 @@ Through this project, I strengthened my understanding of:
 	•	Add confirmation before placing an order
 	•	Display total cost for multiple items
 
-👤 Author
-
-Vicor Onuoha
-Aspiring Data Analyst | Python Developer
-📍 Based in United Kingdom
-🔗 LinkedIn: www.linkedin.com/in/victor-onuoha-4a3113179
-📧 Email: onuohavictor2@gmail.com
-
-
 ## ▶ How to Run
 
 1. Download or clone the repository.
@@ -65,3 +56,12 @@ Your order details:
 Pizza: Quantity - 2, Total Price - $13000
 Total Order Price: $13000
 Thank you for ordering!
+```
+
+##👤 Author
+
+Vicor Onuoha
+Aspiring Data Analyst | Python Developer
+📍 Based in United Kingdom
+🔗 LinkedIn: www.linkedin.com/in/victor-onuoha-4a3113179
+📧 Email: onuohavictor2@gmail.com
