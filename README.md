@@ -62,7 +62,7 @@ Thank you for ordering!
 ## 👤 Author
 
 Vicor Onuoha
-Aspiring Data Analyst | Python Developer
-📍 Based in United Kingdom
-🔗 LinkedIn: www.linkedin.com/in/victor-onuoha-4a3113179
-📧 Email: onuohavictor2@gmail.com
+- Aspiring Data Analyst | Python Developer
+📍 Based in the United Kingdom
+- 🔗 LinkedIn: www.linkedin.com/in/victor-onuoha-4a3113179
+- 📧 Email: onuohavictor2@gmail.com
