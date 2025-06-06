@@ -58,7 +58,7 @@ Total Order Price: $13000
 Thank you for ordering!
 ```
 
-##👤 Author
+## 👤 Author
 
 Vicor Onuoha
 Aspiring Data Analyst | Python Developer
